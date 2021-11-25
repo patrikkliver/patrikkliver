@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @patrikkliver
-- 👀 I’m interested in FullStack Web Development
-- 🌱 I’m currently learning Laravel Framework
+- 👀 I’m interested in Backend Developer & System/Network Technician
+- 🌱 I’m currently Cybersecurity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
